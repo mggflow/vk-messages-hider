@@ -25,7 +25,7 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "app/VkMuteContentApp.js",
+        "app/ContentApp.js",
         "app/Settings.js",
         "app/BlackList.js"
       ],
